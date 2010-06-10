@@ -22,5 +22,4 @@ files:
     - site-lisp/drive-info/docs/**/*.*
     - site-lisp/drive-info/docs/**/*
   exclude:
-    - site-lisp/drive-info-scratch.l
     - site-lisp/drive-info/**/tests/*.*
