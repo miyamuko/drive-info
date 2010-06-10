@@ -1,41 +1,41 @@
 2007-06-02  MIYAMUKO Katsuyuki
 
-	* drive-info 1.1.0 ƒŠƒŠ[ƒX!
+	* drive-info 1.1.0 ãƒªãƒªãƒ¼ã‚¹!
 
-	* - (drive-info.api:drive-info-version): ’Ç‰ÁB
+	* - (drive-info.api:drive-info-version): è¿½åŠ ã€‚
 	  - (drive-info.api:drive-info-api-version): ditto.
 
-	* (*drive-info-version*): export ‚·‚é‚Ì‚ğ‚â‚ß‚½B
+	* (*drive-info-version*): export ã™ã‚‹ã®ã‚’ã‚„ã‚ãŸã€‚
 
-	* - ƒo[ƒWƒ‡ƒ“XV
-	  - Home URL •ÏX
-	  - ƒpƒbƒP[ƒW–¼•ÏX
-	  - SYNOPSIS ‚ÌƒTƒ“ƒvƒ‹ƒR[ƒh‚ğXV
+	* - ãƒãƒ¼ã‚¸ãƒ§ãƒ³æ›´æ–°
+	  - Home URL å¤‰æ›´
+	  - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åå¤‰æ›´
+	  - SYNOPSIS ã®ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã‚’æ›´æ–°
 
 	* README.txt => README.rd
 
-	* - (drive-name): editor ƒpƒbƒP[ƒW‚ÉˆË‘¶‚µ‚È‚¢‚æ‚¤‚É‚µ‚½B
+	* - (drive-name): editor ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ä¾å­˜ã—ãªã„ã‚ˆã†ã«ã—ãŸã€‚
 	  - (drive-letter): ditto.
 
-	* - winapi ‚©‚ç•K—v‚ÈƒVƒ“ƒ{ƒ‹‚Ì‚İ import ‚·‚é‚æ‚¤‚É‚µ‚½B
-	  - define-xxx-unless ‚Í•s—vB
+	* - winapi ã‹ã‚‰å¿…è¦ãªã‚·ãƒ³ãƒœãƒ«ã®ã¿ import ã™ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
+	  - define-xxx-unless ã¯ä¸è¦ã€‚
 
-	* - ’è”‚â\‘¢‘Ì‚Í types.l ‚É•ª—£B
+	* - å®šæ•°ã‚„æ§‹é€ ä½“ã¯ types.l ã«åˆ†é›¢ã€‚
 
-	* - ‚·‚Å‚É FFI ‚ª’è‹`‚³‚ê‚Ä‚¢‚½‚ç‚È‚É‚à‚µ‚È‚¢‚æ‚¤‚É‚µ‚½B
+	* - ã™ã§ã« FFI ãŒå®šç¾©ã•ã‚Œã¦ã„ãŸã‚‰ãªã«ã‚‚ã—ãªã„ã‚ˆã†ã«ã—ãŸã€‚
 
-	* - version ‚ğ 1.1.0 ‚ÉXVB
-	  - MANIFEST XV
+	* - version ã‚’ 1.1.0 ã«æ›´æ–°ã€‚
+	  - MANIFEST æ›´æ–°
 
 	* - drive-info.l => drive-info/api/drive-info.l
 	  - drive-info-ffi.l => drive-info/ffi/kernel32.l
 	  - package.l => drive-info/api/package.l, drive-info/ffi/package.l
 
-	* - (zip): –³‘Ê‚È lambda ‚ğíœ
-	  - (select): remove-if-not ‚ÅÄÀ‘•
+	* - (zip): ç„¡é§„ãª lambda ã‚’å‰Šé™¤
+	  - (select): remove-if-not ã§å†å®Ÿè£…
 
 2007-01-12  MIYAMUKO Katsuyuki
 
-	* drive-info/drive-info.l: –Ú·‚ÌˆÊ’u‚ğ’²®
+	* drive-info/drive-info.l: ç›®ç››ã®ä½ç½®ã‚’èª¿æ•´
 
-	* drive-info 1.0.0 ƒŠƒŠ[ƒX
+	* drive-info 1.0.0 ãƒªãƒªãƒ¼ã‚¹

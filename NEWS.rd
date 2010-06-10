@@ -2,38 +2,38 @@
 
 === 2007-06-02 / 1.1.0
 
-drive-info 1.1.0 ƒŠƒŠ[ƒX!
+drive-info 1.1.0 ãƒªãƒªãƒ¼ã‚¹!
 
-: V‹K‹@”\
+: æ–°è¦æ©Ÿèƒ½
 
-    * ˆÈ‰º‚ÌŠÖ”‚ğ’Ç‰ÁB
+    * ä»¥ä¸‹ã®é–¢æ•°ã‚’è¿½åŠ ã€‚
       * drive-info.api:drive-info-version
       * drive-info.api:drive-info-api-version
 
-: ”ñŒİŠ·‚ğŠÜ‚Ş•ÏX“_
+: éäº’æ›ã‚’å«ã‚€å¤‰æ›´ç‚¹
 
-    * *drive-info-version* ‚ğ export ‚·‚é‚Ì‚ğ‚â‚ß‚Ü‚µ‚½B
+    * *drive-info-version* ã‚’ export ã™ã‚‹ã®ã‚’ã‚„ã‚ã¾ã—ãŸã€‚
 
-    * ƒpƒbƒP[ƒW–¼‚Ì•ÏX
+    * ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åã®å¤‰æ›´
 
-      * drive-info ¨ drive-info.api
-      * drive-info-ffi ¨ drive-info.ffi
+      * drive-info â†’ drive-info.api
+      * drive-info-ffi â†’ drive-info.ffi
 
-    * ƒtƒ@ƒCƒ‹\¬‚ğ•ÏX
+    * ãƒ•ã‚¡ã‚¤ãƒ«æ§‹æˆã‚’å¤‰æ›´
 
-: ƒoƒOC³
+: ãƒã‚°ä¿®æ­£
 
-    * drive-info ‚ğ require ‚µ‚½‚ ‚Æ‚É api ‚ğ require ‚·‚é‚Æ
-      ƒGƒ‰[‚ªo‚Ä‚¢‚½‚Ì‚ğC³B
+    * drive-info ã‚’ require ã—ãŸã‚ã¨ã« api ã‚’ require ã™ã‚‹ã¨
+      ã‚¨ãƒ©ãƒ¼ãŒå‡ºã¦ã„ãŸã®ã‚’ä¿®æ­£ã€‚
 
-: ‚»‚Ì‘¼
+: ãã®ä»–
 
-    * editor ƒpƒbƒP[ƒW‚ÉˆË‘¶‚µ‚È‚¢‚æ‚¤‚É‚µ‚½B
+    * editor ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ä¾å­˜ã—ãªã„ã‚ˆã†ã«ã—ãŸã€‚
 
 
 === 2007-01-12 / 1.0.0
 
-drive-info 1.0.0 ƒŠƒŠ[ƒX!
+drive-info 1.0.0 ãƒªãƒªãƒ¼ã‚¹!
 
 
 =end
